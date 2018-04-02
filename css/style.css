@@ -1416,6 +1416,12 @@ input[type="text"] {
   border-color: #66D37E;
 }
 
+.row {
+  display: flex;
+  display: -webkit-flex;
+  flex-wrap: wrap;
+}
+
 .row-pb-md {
   padding-bottom: 4em !important;
 }

@@ -1,6 +1,6 @@
 
 TITLE: 
-Neat - 100% Fully Responsive Bootstrap Template
+Weavertown Environmental Group(WEG) Website
 
 CREDITS:
 
